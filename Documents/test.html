@@ -46,3 +46,52 @@
 </body>
 
 </html>
+--------------------------------------------
+ <!DOCTYPE html>
+  <html lang="en">
+  
+  <head>
+      <meta charset="utf-8" />
+      <script src="ekmap-platform.min.js"></script>
+      <!-- <script src="https://files.ekgis.vn/sdks/v2.0.0/ekmap-platform.min.js"></script> -->
+      <link href="ekmap-platform.min.css"  rel='stylesheet' />
+      <title>Elevation Service</title>
+      <style>
+          .map {
+              width: 100%;
+              height: calc(100vh - 15px);
+          }
+          body {
+              overflow: hidden;
+          }
+      </style>
+  </head>
+  
+  <body>
+      <div style="width: 100%;">
+          <div id="divMapId" class="map"></div>
+      </div>
+      <script>
+          var apiKey = 'wzeCmc8n3i4ZxjPdXAtpr1fYKayfVouuzEin8eqp' // "Nhập khóa API eKMap Platform của bạn"
+          var map = new maplibregl.Map({
+              container: 'divMapId', // container id
+              center: [106.308, 16.104], // starting position
+              zoom: 5.45 // starting zoom
+          });
+          var mapOSMBright = new ekmapplf.VectorBaseMap('OSM:Bright', apiKey).addTo(map);
+          var elevationService = new ekmapplf.service.Elevation(apiKey);
+          var popupInfo = new maplibregl.Popup({
+              anchor: 'bottom'
+          })
+          map.on('click', function(e){
+              elevationService.at([e.lngLat.lng, e.lngLat.lat]).run(function(error, response){
+                  if(response != undefined){
+                      popupInfo.setLngLat([e.lngLat.lng, e.lngLat.lat]).setHTML("<div>Độ cao: " + response.elevation + " m</div><div>Độ dốc: " + response.slope +"</div>").addTo(map);
+                  }
+              });
+          })
+      </script>
+  </body>
+  
+  </html>
+    
