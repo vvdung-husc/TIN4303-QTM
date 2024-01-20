@@ -7,6 +7,6 @@ Phần mềm:
  - VirtualBox
  - Hyper-V
 2. Hệ điều hành
- - Windows Server 2019 (Stardard)
+ - Windows Server 2019 (Standard)
  - Windows 10 Pro (7,11)
  - Ubuntu 20.4 Server (22.04) 
