@@ -1,5 +1,4 @@
 # TIN4303-QTM
-https://toutiao.io/posts/9so60lk/preview
 
 Phần mềm:
 1. Máy ảo
