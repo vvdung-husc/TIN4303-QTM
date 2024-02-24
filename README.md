@@ -3,6 +3,9 @@
 Phần mềm:
 1. Máy ảo
  - VMWare
+  + Disable DHCP VMNet1 (Host-only)
+  + Win2019 administrator/Abc@123
+  
  - VirtualBox
  - Hyper-V
 2. Hệ điều hành
