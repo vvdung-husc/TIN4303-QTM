@@ -1,14 +1,14 @@
 # TIN4303-QTM
 ## Quản trị mạng
 ## Phần mềm:
-1. ___Máy ảo___
+___1. Máy ảo___
  - VMWare
   + Disable DHCP VMNet1 (Host-only)
   + Win2019 administrator/Abc@123
 
  - VirtualBox
  - Hyper-V
-2. ___Hệ điều hành___
+___2. Hệ điều hành___
  - Windows Server 2019 (Standard - GUI)
  - Windows 10 Pro (7,11)
  - Ubuntu 20.4 (22.04) Server LTS
