@@ -8,6 +8,7 @@ ___1. Máy ảo___
 
  - VirtualBox
  - Hyper-V
+
 ___2. Hệ điều hành___
  - Windows Server 2019 (Standard - GUI)
  - Windows 10 Pro (7,11)
