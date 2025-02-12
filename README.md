@@ -1,6 +1,5 @@
 # TIN4303-QTM
 ## Quản trị mạng
----
 ## Phần mềm:
 1. ___Máy ảo___
  - VMWare
