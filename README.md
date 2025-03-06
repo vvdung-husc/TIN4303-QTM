@@ -1,5 +1,10 @@
 # TIN4303-QTM
 ## Quản trị mạng
+
+### Dịch vụ DNS
+
+Tên miền quản lý: **tink46.vn**
+
 ## Phần mềm:
 ___1. Máy ảo___
  - VMWare https://www.vmware.com/
