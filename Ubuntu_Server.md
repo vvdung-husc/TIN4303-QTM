@@ -12,7 +12,11 @@
 > Kiểm tra IP có hoạt động bằng cách ping với máy host và từ host vào Linux
 
 ## Cài đặt OpenSSH để điều khiển từ xa
+
+>sudo apt install openssh-server
+
 [Tham khảo](https://dotrungquan.info/huong-dan-cai-dat-ubuntu-server-24-04-lts/)
+
 
 ## Chia sẽ internet từ Ubuntu. IPTABLES, NAT - Network Address Translation
 
