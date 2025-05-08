@@ -13,3 +13,9 @@
 
 ## Cài đặt OpenSSH để điều khiển từ xa
 [Tham khảo](https://dotrungquan.info/huong-dan-cai-dat-ubuntu-server-24-04-lts/)
+
+## Chia sẽ internet từ Ubuntu. IPTABLES, NAT - Network Address Translation
+
+>sudo sysctl -w net.ipv4.ip_forward=1
+
+>sudo iptables -t nat -A POSTROUTING -o ens33 -j MASQUERADE
