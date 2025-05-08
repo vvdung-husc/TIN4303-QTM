@@ -17,6 +17,9 @@
 
 [Tham khảo](https://dotrungquan.info/huong-dan-cai-dat-ubuntu-server-24-04-lts/)
 
+Hiển thị trạng thái mạng
+>netstat -plnt 
+
 
 ## Chia sẽ internet từ Ubuntu. IPTABLES, NAT - Network Address Translation
 
