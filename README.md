@@ -6,7 +6,7 @@
 
 ### Dịch vụ DNS
 
-Tên miền quản lý: tink47**.vn**
+Tên miền quản lý: **tink47.vn**
 
 ## Phần mềm:
 ___1. Máy ảo___
