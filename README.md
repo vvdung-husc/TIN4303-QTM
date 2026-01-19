@@ -24,3 +24,4 @@ ___2. Hệ điều hành___
  - Windows 10 Pro (7,11)
  - Ubuntu 24.04 Server LTS https://ubuntu.com/download/server
 
+Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/VMware-Workstation-Full-25H2-24995812.zip
