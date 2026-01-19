@@ -1,9 +1,12 @@
-# TIN4303-QTM
-## Quản trị mạng
+# TIN4303 - Quản trị mạng
+
+---
+## WiFi tại phòng Thực hành: CNTT-MMT/13572468
+
 
 ### Dịch vụ DNS
 
-Tên miền quản lý: **tink46.vn**
+Tên miền quản lý: tink47**.vn**
 
 ## Phần mềm:
 ___1. Máy ảo___
@@ -21,5 +24,3 @@ ___2. Hệ điều hành___
  - Windows 10 Pro (7,11)
  - Ubuntu 24.04 Server LTS https://ubuntu.com/download/server
 
----
-## WiFi tại phòng Thực hành: CNTT-MMT/13572468
