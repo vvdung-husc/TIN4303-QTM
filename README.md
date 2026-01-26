@@ -1,7 +1,7 @@
 # TIN4303 - Quản trị mạng
 
 ---
-## WiFi tại phòng Thực hành: CNTT-MMT/13572468
+## WiFi Lab: CNTT-MMT/13572468
 
 
 ### Dịch vụ DNS
