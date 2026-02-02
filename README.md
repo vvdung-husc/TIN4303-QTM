@@ -44,5 +44,9 @@ Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
 
 [**- Thiết lập Remote Desktop**](https://quantrimang.com/cong-nghe/thiet-lap-remote-desktop-tren-windows-server-2019-180023)
 
+-------------------------
+
+## Tìm hiểu Sysinternals Suite
+[**Sysinternals Suite**](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 
 -------------------------
