@@ -27,13 +27,26 @@ ___2. Hệ điều hành___
 Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
 
 -------------------------
+## Tham khảo cài đặt dịch vụ DHCP và DNS
+[**- Cài đặt và cấu hình DHCP Server**](https://bkhost.vn/blog/cai-dat-va-cau-hinh-dhcp-server-tren-windows-server/)
+
+>  [***Dịch vụ DHCP***](https://github.com/vvdung-husc/TIN4303-QTM/blob/main/DHCP.md)
+
+![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DHCP_Server.png)
+ 
+[**- Cài đặt và cấu hình DNS Server**](https://quantrimang.com/cong-nghe/cai-dns-server-tren-windows-server-2019-180046)
+
+>  [***Dịch vụ DNS***](https://github.com/vvdung-husc/TIN4303-QTM/blob/main/DNS.md)
+
+![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DNS_Server.png)
+
+-------------------------
 
 ## 1. Chuẩn bị Networking cho VMWare
 
 ![](https://raw.githubusercontent.com/vvdung-husc/TIN4303-QTM/refs/heads/main/Documents/VMWare_Network_Config.png)
 
 -------------------------
-
 ## 2. Windows Server 2019 Standard (Desktop Experience)
 
 ![](https://raw.githubusercontent.com/vvdung-husc/TIN4303-QTM/refs/heads/main/Documents/Win2019_Config.png)
