@@ -40,6 +40,11 @@ Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
 
 ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DNS_Server.png)
 
+
+[**Tham khảo - Tạo website từ IIS - www.ssl.com**](https://www.ssl.com/vi/l%C3%A0m-th%E1%BA%BF-n%C3%A0o-%C4%91%E1%BB%83/t%E1%BA%A1o-trang-web-m%E1%BB%9Bi-iis-10/)
+
+[**Tham khảo - Tạo website từ IIS - helpdesk.inet.vn**](https://helpdesk.inet.vn/knowledgebase/huong-dan-tao-website-tren-iis-trong-window-server)
+
 -------------------------
 
 ## 1. Chuẩn bị Networking cho VMWare
