@@ -56,6 +56,14 @@ Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DHCP_Authorize.png)
   ### Xóa và tạo lại tink46.vn trong DNS
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DNS_Domain_Delete.png)
+  ### Quản lý Users
+  ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_Users.png)
+  ### Thêm user mới
+  ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_New_User.png)
+  ### Chia sẽ Thư mục
+  ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_Shared.png)
+  ### Thêm quyền cho Thư mục được chia sẽ
+  ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_Shared_2.png)
   
 - Windows Client
 
