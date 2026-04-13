@@ -67,11 +67,16 @@ Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
 ## Tìm hiểu Sysinternals Suite
 [**Sysinternals Suite**](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 
-## Cài đặt Domain Controller
+## Cài đặt Domain Controller - Tên miền quản lý TINK46.VN
 - Windows 2019
   
   [Tham khảo cài đặt Domain Controller](https://quantrimang.com/cong-nghe/active-directory-tren-windows-server-2019-180096#google_vignette)
 
+  ### Xác thức lại DHCP
+  ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DHCP_Authorize.png)
+  ### Xóa và tạo lại tink46.vn trong DNS
+  ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DNS_Domain_Delete.png)
+  
 - Windows Client
 
   [Tham khảo tham gia vào Domain đã có](https://quantrimang.com/cong-nghe/huong-dan-gia-nhap-mien-tren-windows-10-145401)
