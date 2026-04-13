@@ -52,7 +52,7 @@ Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
   
   [Tham khảo cài đặt Domain Controller](https://quantrimang.com/cong-nghe/active-directory-tren-windows-server-2019-180096#google_vignette)
 
-  ### Xác thức lại DHCP
+  ### Xác thực lại DHCP
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DHCP_Authorize.png)
   ### Xóa và tạo lại tink46.vn trong DNS
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DNS_Domain_Delete.png)
