@@ -6,7 +6,7 @@
 
 ### Dịch vụ DNS
 
-Tên miền quản lý: **tink47.vn**
+Tên miền quản lý: **tink48.vn**
 
 ## Phần mềm:
 ___1. Máy ảo___
@@ -22,9 +22,9 @@ ___1. Máy ảo___
 ___2. Hệ điều hành___
  - Windows Server 2019 (Standard - GUI)
  - Windows 10 Pro (7,11)
- - Ubuntu 24.04 Server LTS https://ubuntu.com/download/server
+ - Ubuntu 26.04 Server LTS https://ubuntu.com/download/server
 
-Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
+Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 
 -------------------------
 ## Tham khảo cài đặt dịch vụ DHCP và DNS
@@ -47,7 +47,7 @@ Link tải VMWare Workstation 25H2 https://it.iothings.vn/downloads/
 
 -------------------------
 
-## Cài đặt Domain Controller - Tên miền quản lý TINK46.VN
+## Cài đặt Domain Controller - Tên miền quản lý TINK48.VN
 - Windows 2019
   
   [Tham khảo cài đặt Domain Controller](https://quantrimang.com/cong-nghe/active-directory-tren-windows-server-2019-180096#google_vignette)
