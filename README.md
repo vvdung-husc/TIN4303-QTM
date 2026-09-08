@@ -54,7 +54,7 @@ Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 
   ### Xác thực lại DHCP
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DHCP_Authorize.png)
-  ### Xóa và tạo lại tink46.vn trong DNS
+  ### Xóa và tạo lại Domain trong DNS
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DNS_Domain_Delete.png)
   ### Quản lý Users
   ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_Users.png)
