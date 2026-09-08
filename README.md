@@ -20,7 +20,7 @@ ___1. Máy ảo___
  - Hyper-V https://kb.pavietnam.vn/hyper-v-la-gi.html
 
 ___2. Hệ điều hành___
- - Windows Server 2019 (Standard - GUI)
+ - Windows Server 2022 (Standard - GUI)
  - Windows 10 Pro (7,11)
  - Ubuntu 26.04 Server LTS https://ubuntu.com/download/server
 
