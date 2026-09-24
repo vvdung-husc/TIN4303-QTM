@@ -42,10 +42,16 @@ Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 
 -------------------------
 
-## 2. Chuẩn bị máy ảo để cài đặt Windows Server 2019 Standard (Desktop Experience)
-<details> <summary><b><i>Máy ảo với các thông tin</i></b></summary> 
+## 2. Chuẩn bị máy ảo để cài đặt Windows Server, Windows Client
+<details> <summary><b><i>Máy ảo Server với yêu cầu 2 NIC (1 kiểu NAT, 1 kiểu Host-only)</i></b></summary> 
 
 ![](https://raw.githubusercontent.com/vvdung-husc/TIN4303-QTM/refs/heads/main/Documents/Win2019_Config.png)
+</details>
+
+<details> <summary><b><i>Máy ảo Client với yêu cầu 1 NIC kiểu Host-only</i></b></summary> 
+
+![](https://github.com/vvdung/storage/blob/main/TIN4303/LAN_Windows_Client.png?raw=true)
+
 </details>
 
 [**- Cài đặt Windows Server 2019**](https://suncloud.vn/cai-windows-server-2019)
