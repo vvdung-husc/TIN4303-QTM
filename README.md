@@ -81,3 +81,18 @@ Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 </details>
 
 -------------------------
+
+## 4. Cài đặt Kali Linux như Client
+***Yêu cầu***: NIC: Host-only, IPv4: <i>192.168.56.13/255.255.255.0</i>
+
+<details> <summary><b><i>Cập nhật cấu hình VMWare mới cho máy ảo Kali</i></b></summary> 
+
+![ICS - Windows Server](https://github.com/vvdung/storage/blob/main/TIN4303/KALI_LINUX_1.png?raw=true) 
+</details>
+
+<details> <summary><b><i>Cấu hình địa chỉ IPv4 cho Kali Linux</i></b></summary> 
+
+![ICS - Windows Server](https://github.com/vvdung/storage/blob/main/TIN4303/KALI_LINUX_2.png?raw=true) 
+</details>
+
+-------------------------
