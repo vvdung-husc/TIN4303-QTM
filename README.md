@@ -1,3 +1,4 @@
+
 # TIN4303 - Quản trị mạng
 
 ---
@@ -93,6 +94,19 @@ Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 <details> <summary><b><i>Cấu hình địa chỉ IPv4 cho Kali Linux</i></b></summary> 
 
 ![ICS - Windows Server](https://github.com/vvdung/storage/blob/main/TIN4303/KALI_LINUX_2.png?raw=true) 
+</details>
+
+-------------------------
+
+## 5. DHCP - Dynamic Host Configuration Protocol
+<details> <summary><b><i>DHCP-Server</i></b></summary> 
+
+![ICS - Windows Server](https://github.com/vvdung/storage/blob/main/TIN4303/DHCP_Server.png?raw=true) 
+</details>
+
+<details> <summary><b><i>Tìm hiểu giao thức DHCP</i></b></summary> 
+
+- [Tìm hiểu giao thức DHCP](https://github.com/vvdung-husc/TIN4303-QTM/blob/main/Documents/DHCP.md)
 </details>
 
 -------------------------
