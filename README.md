@@ -110,3 +110,17 @@ Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 </details>
 
 -------------------------
+
+
+## 6. DNS - Domain Name System
+<details> <summary><b><i>DNS-Server</i></b></summary> 
+
+![ICS - Windows Server](https://github.com/vvdung/storage/blob/main/TIN4303/DNS_Server.png?raw=true) 
+</details>
+
+<details> <summary><b><i>Tìm hiểu dịch vụ DNS</i></b></summary> 
+
+- [Tìm hiểu dịch vụ DNS](https://github.com/vvdung-husc/TIN4303-QTM/blob/main/Documents/DNS.md)
+</details>
+
+-------------------------
