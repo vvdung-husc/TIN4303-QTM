@@ -1,4 +1,5 @@
 
+
 # TIN4303 - Quản trị mạng
 
 ---
@@ -124,3 +125,24 @@ Link tải VMWare Workstation 26H1 https://it.iothings.vn/downloads/
 </details>
 
 -------------------------
+
+## 7. DC - Domain Controller
+<details> <summary><b><i>Users</i></b></summary> 
+
+![ICS - Windows Server](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_Users.png) 
+</details>
+
+<details> <summary><b><i>Thêm tài khoản mới</i></b></summary> 
+
+![ICS - Windows Server](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_New_User.png) 
+</details>
+
+<details> <summary><b><i>Client tham gia Domain Controller</i></b></summary> 
+
+![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/CLIENT_Join_Domain.png) 
+</details>
+
+<details> <summary><b><i>Chia sẽ dữ liệu</i></b></summary> 
+
+![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/TIN4303/DC_Shared.png) 
+</details>
